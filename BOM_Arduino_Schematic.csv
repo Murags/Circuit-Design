@@ -1,0 +1,4 @@
+No.	Quantity	Comment	Designator	Footprint	Value	Manufacturer Part	Manufacturer	Supplier Part	Supplier
+1	1	10Ω	R1	R0805	10Ω	1RC0805F1279	SAE(世盟/世爱)		LCSC
+2	1	AM2302	S1	SENSOR-TH_AM2302		AM2302	广州奥松	C83988	LCSC
+3	1	ARDUINO_NANO	U1	COMM-TH_ARDUINO_NANO		ARDUINO_NANO		C9900017879	LCSC
